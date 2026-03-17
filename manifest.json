@@ -1,0 +1,29 @@
+{
+  "name": "SCALPER 4/5 \u2014 Calculadora PUT Options",
+  "short_name": "SCALPER 4/5",
+  "description": "Abraham Navas Trading \u2014 Wall Street Venezuela",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080c10",
+  "theme_color": "#080c10",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
